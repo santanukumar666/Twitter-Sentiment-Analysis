@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+datetime
+pytz
+textblob
+tweepy==4.4.0
+wordcloud
+configparser
