@@ -19,6 +19,8 @@ A webapp to display the sentiments of people regarding any events happening in t
 * textblob
 * matplotlib
 
+https://user-images.githubusercontent.com/60546202/160459111-85cd4944-95ae-407f-9d48-051f6c76d598.mp4
+
 ## How to run the project
 
 1. Clone this repository to your local machine.
